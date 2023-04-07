@@ -1,5 +1,5 @@
 <h1 align="center">
-	ft_printf
+	ft_printf <img alt="Final Grade: 104/ 100%" src="https://img.shields.io/badge/-%20104%20%2F%20100-success">
 </h1>
 <p align="center">
 	<b><i>Because ft_putnbr() and ft_putstr() aren’t enough</b></i>
@@ -18,7 +18,6 @@ It is actually pretty cool :)_
 
 	This project basically consists of writing a libray that contains a simplified version
 	of the printf function.
-**Final Grade: 104/100**
 <br>
 
 ## 🛠️ Usage
