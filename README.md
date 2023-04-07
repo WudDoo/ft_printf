@@ -1,5 +1,5 @@
-<h1 align="center">
-	ft_printf
+<h1>
+	<p align="center">ft_printf</p>
 	<img align="right" alt="Final Grade: 104/ 100%" src="https://img.shields.io/badge/-%20104%20%2F%20100-success">
 </h1>
 <p align="center">
