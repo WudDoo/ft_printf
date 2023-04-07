@@ -18,6 +18,7 @@ It is actually pretty cool :)_
 
 	This project basically consists of writing a libray that contains a simplified 
 	version of the printf function.
+**Final Grade: 104/100**
 <br>
 
 ## 🛠️ Usage
