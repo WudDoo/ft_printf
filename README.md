@@ -1,5 +1,6 @@
 <h1 align="center">
-	ft_printf <img alt="Final Grade: 104/ 100%" src="https://img.shields.io/badge/-%20104%20%2F%20100-success">
+	ft_printf
+	<img align="right" alt="Final Grade: 104/ 100%" src="https://img.shields.io/badge/-%20104%20%2F%20100-success">
 </h1>
 <p align="center">
 	<b><i>Because ft_putnbr() and ft_putstr() aren’t enough</b></i>
