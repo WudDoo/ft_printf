@@ -10,7 +10,7 @@
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/WudDoo/ft_printf">
 </p>
 
-## 💡 About the project
+## 💡 About
 
 > _The goal of this project is pretty straightforward. You will recode printf().
 You will mainly learn about using a variable number of arguments. How cool is that??
