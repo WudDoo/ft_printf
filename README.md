@@ -21,7 +21,7 @@ It is actually pretty cool :)_
 	of the printf function.
 <br>
 
-## 🛠️ Usage
+## 🛠️ Usage (after downloading)
 
 <!-- ### Requirements
 
