@@ -31,12 +31,12 @@ It is actually pretty cool :)_
 
 ### **1. Compiling**
 
-To compile, run `make` on the root of the `ft_printf` directory.
+To compile, run `make` at the root of the `ft_printf` directory.
 
 
-### **2. Using it in your code**
+### **2. Using it**
 
-To use my ft_printf in your code, simply include its header with the correct path:
+To use my ft_printf, simply include its header with the correct path in your code:
 
 ```C
 #include "PATH/ft_printf.h"
