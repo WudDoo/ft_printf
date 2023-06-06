@@ -41,3 +41,9 @@ To use my ft_printf, simply include its header with the correct path in your cod
 ```C
 #include "PATH/ft_printf.h"
 ```
+
+And compile your code with my static library `libftprintf.a`:
+
+```C
+$(CC) $(CFLAGS) $(YOUR_SRCS) $(PATH/libftprintf.a)
+```
