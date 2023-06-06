@@ -40,11 +40,11 @@ To compile, run `make` at the root of the `ft_printf` directory.
 To use my ft_printf, simply include its header with the correct path in your code:
 
 ```C
-#include "<PATH_TO_FT_PRINTF>/ft_printf.h"
+#include "<PATH>/ft_printf.h"
 ```
 
 And compile your code with my static library `libftprintf.a`:
 
 ```C
-$(CC) $(CFLAGS) $(YOUR_SRCS) $(<PATH_TO_FT_PRINTF>/libftprintf.a)
+$(CC) $(CFLAGS) $(YOUR_SRCS) $(<PATH>/libftprintf.a)
 ```
