@@ -23,18 +23,19 @@ It is actually pretty cool :)_
 
 ## 🛠️ Usage (after downloading)
 
-<!-- ### Requirements
+### **1. Cloning**
 
-* -->
+To clone, run:
+```ZSH
+git clone https://github.com/WudDoo/ft_printf.git
+```
 
-<!-- ### Instructions -->
-
-### **1. Compiling**
+### **2. Compiling**
 
 To compile, run `make` at the root of the `ft_printf` directory.
 
 
-### **2. Using it**
+### **3. Using it**
 
 To use my ft_printf, simply include its header with the correct path in your code:
 
